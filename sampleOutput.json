@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Gwynn Guilford",
+            "title": "Inflation Stayed High in September - The Wall Street Journal",
+            "description": "Consumer-price index climbs 5.4% from a year earlier as strained supply chains keep pushing up prices",
+            "url": "https://www.wsj.com/articles/us-inflation-consumer-price-index-september-2021-11634074529",
+            "urlToImage": "https://images.wsj.net/im-415777/social",
+            "publishedAt": "2021-10-13T12:34:00Z",
+            "content": "U.S. inflation accelerated slightly in September, as pandemic-related shortages of labor and materials continued to push up prices.The Labor Department said last months consumer-price indexwhich meas… [+6995 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Andrew Jeong, Annabelle Timsit",
+            "title": "Covid-19 live updates: U.S. to reopen Canada, Mexico overland borders for vaccinated tourists - The Washington Post",
+            "description": "The easing of pandemic restrictions for « nonessential » travel across land borders is in line with guidance on air travel.",
+            "url": "https://www.washingtonpost.com/nation/2021/10/13/covid-delta-variant-live-updates/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5MUCKSBL2MI6ZML5TBOBQ3PDHA.jpg&w=1440",
+            "publishedAt": "2021-10-13T12:14:01Z",
+            "content": "Catholic members of the U.S. military should not be forced to receive a coronavirus vaccine against their conscience, Archbishop for the Military Services Timothy P. Broglio said in a statement Tuesd… [+2351 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Tyler McCarthy",
+            "title": "Ricarlo Flanagan, 'Shameless' actor, dead at 40: report - Fox News",
+            "description": "Ricarlo Flanagan, the actor, rapper and stand-up comedian best known for “Shameless” and being a semifinalist on Season 9 of “Last Comic Standing,” has died at age 40.",
+            "url": "https://www.foxnews.com/entertainment/ricarlo-flanagan-comedian-shameless-dead-40",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/10/Ricarlo-Flanagan-Getty.jpg",
+            "publishedAt": "2021-10-13T12:10:44Z",
+            "content": "Ricarlo Flanagan, the actor, rapper and stand-up comedian best known for \"Shameless\" and being a semifinalist on Season 9 of \"Last Comic Standing,\" has died at age 40.\r\nFlanagans agent, Stu Golfman o… [+1950 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Brexit: Irish deputy PM Leo Varadkar warns nations UK might not keep its word - BBC News",
+            "description": "Leo Varadkar speaks out after Dominic Cummings says the UK had never meant to stick to Brexit deal.",
+            "url": "https://www.bbc.com/news/uk-politics-58898117",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2C52/production/_121064311_e396ee6c-1163-493b-b21b-96476bf77dca.jpg",
+            "publishedAt": "2021-10-13T11:35:11Z",
+            "content": "Image caption, Boris Johnson fought the 2019 election on a promise to get a deal with Brussels\r\nIreland's deputy PM has warned governments doing trade deals with the UK that it is a nation that \"does… [+4954 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Andrew Jacobs",
+            "title": "F.D.A. Issues New Salt Guidelines - The New York Times",
+            "description": "The new recommendations are aimed at food manufacturers and restaurants. Some experts say they don’t go far enough.",
+            "url": "https://www.nytimes.com/2021/10/13/health/fda-salt-food.html",
+            "urlToImage": "https://static01.nyt.com/images/2021/10/13/science/13SALT/13SALT-facebookJumbo.jpg",
+            "publishedAt": "2021-10-13T11:30:23Z",
+            "content": "In a statement announcing the new guidelines, Dr. Janet Woodcock, the acting F.D.A. commissioner, said they were the first step in a multiyear campaign to gradually lower the nations sodium intake so… [+1276 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Adam Shapiro",
+            "title": "Delta swings to profit in Q3 as 'dramatic' fuel price surge threatens outlook - Yahoo Finance",
+            "description": "Delta Air Lines returned to profitability in the third quarter but CEO Ed Bastian says rising fuel prices threaten future earnings.",
+            "url": "https://finance.yahoo.com/news/delta-returns-to-profitability-but-rising-fuel-prices-pose-a-threat-112620583.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/qHZN9KpCI7qYPQR0usD.eQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2021-10/9cd178a0-2aba-11ec-afbc-0e2ed161e156",
+            "publishedAt": "2021-10-13T11:29:13Z",
+            "content": "Delta Air Lines (DAL) on Wednesday reported third quarter results that beat earnings estimates, with travelers returning to the skies en masse even as new COVID-19 infections soared.\r\nHere are the ma… [+4133 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Rolfe Winkler",
+            "title": "Apple Studying Potential of AirPods as Health Device - The Wall Street Journal",
+            "description": "Earbuds could be offered as hearing aids and include an in-ear thermometer and posture warnings",
+            "url": "https://www.wsj.com/articles/apple-studying-potential-of-airpods-as-health-device-11634122800",
+            "urlToImage": "https://images.wsj.net/im-416040/social",
+            "publishedAt": "2021-10-13T11:00:00Z",
+            "content": "Apple Inc.\r\n AAPL -0.91%\r\nis studying ways to make AirPods into a health device, including for enhancing hearing, reading body temperature and monitoring posture, according to documents reviewed by T… [+4456 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "https://www.facebook.com/rachael.bade.9",
+            "title": "POLITICO Playbook: Scoop: Manchin-Sinema split vexes the White House - POLITICO - Politico",
+            "description": "And Rep. John Yarmuth (D-Ky.) says he won't seek reelection.",
+            "url": "https://www.politico.com/newsletters/playbook/2021/10/13/scoop-manchin-sinema-split-vexes-the-white-house-494684",
+            "urlToImage": "https://static.politico.com/ec/10/f1d1cae1485ea43b0176d1fa6355/211013-manchin-ap-1160.jpg",
+            "publishedAt": "2021-10-13T10:15:09Z",
+            "content": "Part of solving the Manchinema puzzle is that Sen. Joe Manchin, 74-year-old former governor from a coal state, and Sen. Kyrsten Sinema, the 45-year-old former Green Party activist from Arizona, are a… [+19028 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Atlanta Journal Constitution"
+            },
+            "author": "Greg Bluestein",
+            "title": "'A takeover': Trump loyalists exert control over county GOPs - Atlanta Journal Constitution",
+            "description": "Activists who emphasize loyalty to former President Donald Trump have won control of the Republican Party's infrastructure in at least a dozen Georgia counties and have seen their influence grow across the state.",
+            "url": "https://www.ajc.com/politics/a-takeover-trump-loyalists-exert-control-over-county-gops/6CNKT5NUANCX3JXYYFIGMADOUI/",
+            "urlToImage": "https://www.ajc.com/resizer/PACaxY9EAu6thWflIWdF6EeZInY=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/D4V5SMTX6CUSO3NSG4PIU5TUBI.jpg",
+            "publishedAt": "2021-10-13T10:13:21Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Windows 11’s first update makes AMD CPU performance even worse - The Verge",
+            "description": "The first update for Windows 11 has made AMD CPU performance worse. It comes after AMD and Microsoft warned of issues that will be fixed in October.",
+            "url": "https://www.theverge.com/2021/10/13/22723998/windows-11-update-amd-ryzen-cpu-performance-worse",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/SGK6l3GdVUE13slsxje7edX1AIc=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22900767/bfarsace_211004_4777_0007.jpg",
+            "publishedAt": "2021-10-13T09:53:32Z",
+            "content": "Microsoft is aiming to fix AMD performance issues this month\r\nPhoto by Becca Farsace / The Verge\r\nAMD warned last week that its chips are experiencing performance issues in Windows 11, and now Micros… [+1785 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Brie Stimson",
+            "title": "Florida fines county $3.5M for violating vaccine mandate ban - Fox News",
+            "description": "The Florida Department of Health issued its first fine to a county that allegedly violated the state’s ban on vaccine mandates, the department announced this week.",
+            "url": "https://www.foxnews.com/politics/florida-fines-county-3-5-million-for-violating-vaccine-mandate-ban",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/10/GettyImages-1235117408.jpg",
+            "publishedAt": "2021-10-13T09:46:11Z",
+            "content": "The Florida Department of Health issued its first fine to a county that allegedly violated the states ban on vaccine mandates, the department announced this week. \r\nLeon County, which includes the ca… [+2850 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "$10 Billion Webb Space Telescope Arrives at Europe’s Spaceport - SciTechDaily",
+            "description": "The James Webb Space Telescope has arrived safely at Pariacabo harbor in French Guiana. ESA in close collaboration with NASA will now prepare this once-in-a-generation mission for its launch on Ariane 5 from Europe’s Spaceport this December. Few space science…",
+            "url": "https://scitechdaily.com/10-billion-webb-space-telescope-arrives-at-europes-spaceport/",
+            "urlToImage": "https://scitechdaily.com/images/Webb-Arrives-at-Pariacabo-Harbor-scaled.jpg",
+            "publishedAt": "2021-10-13T09:38:09Z",
+            "content": "ByEuropean Space Agency (ESA)October 13, 2021\r\nThe James Webb Space Telescope, a once-in-a-generation space mission, arrived safely at Pariacabo harbor in French Guiana on October 12, 2021, ahead of … [+6108 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ben Morse and CNN Sport staff",
+            "title": "Jon Gruden removed from Tampa Bay Buccaneers' Ring of Honor following resignation - CNN",
+            "description": "Jon Gruden has been removed from the Tampa Bay Buccaneers Ring of Honor following his resignation as the head coach of the Las Vegas Raiders on Monday.",
+            "url": "https://www.cnn.com/2021/10/13/sport/jon-gruden-buccaneer-ring-of-honor-spt-intl/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211013044635-jon-gruden-10-10-2021-super-tease.jpg",
+            "publishedAt": "2021-10-13T09:33:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Story by Reuters",
+            "title": "Same-sex marriage isn't a bar to the Dutch throne, Prime Minister says - CNN",
+            "description": "In the country that first legalized gay marriage, the Dutch crown princess has the right to marry a person of any gender without giving up her right to the throne, the Prime Minister of the Netherlands said on Tuesday.",
+            "url": "https://www.cnn.com/2021/10/13/europe/royal-same-sex-marriage-netherlands-intl-scli/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211013043415-princess-amalia-0512-restricted-super-tease.jpg",
+            "publishedAt": "2021-10-13T09:25:00Z",
+            "content": "In the country that first legalized gay marriage, the Dutch crown princess has the right to marry a person of any gender without giving up her right to the throne, the Prime Minister of the Netherlan… [+672 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Dasl Yoon",
+            "title": "Netflix’s ‘Squid Game’ Is Slammed by Kim Jong Un’s Propagandists as ‘Beastly’ - The Wall Street Journal",
+            "description": "The popular show depicts a South Korean society where ‘only money matters,’ a North Korean propaganda site says",
+            "url": "https://www.wsj.com/articles/netflixs-squid-game-is-slammed-by-kim-jong-uns-propagandists-as-beastly-11634116531",
+            "urlToImage": "https://images.wsj.net/im-416134/social",
+            "publishedAt": "2021-10-13T09:15:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "",
+            "title": "President Biden aims to tackle supply chain disruptions - NPR",
+            "description": "President Biden will speak to ongoing supply chain problems, as major retailers warn of shortages and price hikes during the upcoming holiday season.",
+            "url": "https://www.npr.org/2021/10/13/1045501424/the-white-house-announces-steps-to-try-to-ease-backlogs-at-u-s-ports",
+            "urlToImage": "https://media.npr.org/assets/img/2021/10/12/gettyimages-1235740428_wide-7d0e3c3c470c855c52a8d65026f9e9b91b4ee507.jpg?s=1400",
+            "publishedAt": "2021-10-13T09:00:24Z",
+            "content": "A Mediterranean Shipping Company cargo ship filled with containers waits offshore for entry to the Port of Los Angeles on Oct. 6. A record number of cargo ships have been stuck in limbo off the south… [+4446 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Christina Wilkie",
+            "title": "White House plan aims to help key West Coast ports stay open 24-7 to ease supply chain bottlenecks - CNBC",
+            "description": "FedEx, UPS, Walmart, Home Depot and others will also announce plans to expand hours  during a virtual meeting Wednesday with Biden.",
+            "url": "https://www.cnbc.com/2021/10/13/supply-chain-biden-backs-running-west-coast-ports-24-7-to-ease-bottlenecks.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106949312-1632915494506-gettyimages-1235568514-AFP_9NQ6GW.jpeg?v=1632915580",
+            "publishedAt": "2021-10-13T09:00:01Z",
+            "content": "WASHINGTON -- As supply chain bottlenecks around the world threaten to hobble the U.S. holiday shopping season, President Joe Biden will unveil a plan Wednesday to try to ease West Coast delays at th… [+5535 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Keith Bradsher",
+            "title": "China’s Power Problems Expose a Strategic Weakness - The New York Times",
+            "description": "China announced on Wednesday a national rush to mine and burn more coal, as the country’s electricity shortage threatens to damage its image as a reliable manufacturing base.",
+            "url": "https://www.nytimes.com/2021/10/13/business/china-electricity-shortage.html",
+            "urlToImage": "https://static01.nyt.com/images/2021/10/12/business/00china-power1/00china-power1-facebookJumbo.jpg",
+            "publishedAt": "2021-10-13T08:38:05Z",
+            "content": "Chinese officials hope to replace much coal-fired power with solar power. But Chinas manufacturing processes for solar panels require enormous amounts of electricity, much of it from coal.\r\nPolysilic… [+1397 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Sahil Kapur",
+            "title": "Biden's approval rating has fallen. Pollsters say there's one way to bounce back. - NBC News",
+            "description": "Biden’s approval rating has fallen. Pollsters say there’s one way to bounce back.",
+            "url": "https://www.nbcnews.com/politics/congress/biden-s-approval-rating-has-fallen-pollsters-say-there-s-n1281370",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2021_41/3512248/211011-joe-biden-ew-520p-2x1.jpg",
+            "publishedAt": "2021-10-13T08:31:10Z",
+            "content": "WASHINGTON The honeymoon is over. And the fading Republican support was inevitable. But Democrats are alarmed by President Joe Biden's decline in job approval among groups central to his base most no… [+5112 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MLB.com"
+            },
+            "author": "Maria Guardado, Juan Toribio",
+            "title": "Dodgers-Giants G5 FAQ (Thurs., 9 ET, TBS) - MLB.com",
+            "description": "LOS ANGELES -- After 23 intense games between the Dodgers and Giants this season, it’s fitting that the epic battle between the teams with the two best records in MLB will come down to a winner-take-all game.\nThe Dodgers avoided elimination with a 7-2 win in …",
+            "url": "https://www.mlb.com/news/dodgers-vs-giants-nlds-game-5-starting-lineups-and-pitching-matchup",
+            "urlToImage": "https://img.mlbstatic.com/mlb-images/image/private/t_2x1/t_w1536/mlb/huryjvk6cenmzdbrc7kl.jpg",
+            "publishedAt": "2021-10-13T08:16:26Z",
+            "content": "LOS ANGELES -- After 23 intense games between the Dodgers and Giants this season, its fitting that the epic battle between the teams with the two best records in MLB will come down to a winner-take-a… [+4988 chars]"
+        }
+    ]
+}
